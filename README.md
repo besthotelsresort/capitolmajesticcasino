@@ -1,0 +1,2 @@
+# capitolmajesticcasino
+Static site: capitolmajesticcasino

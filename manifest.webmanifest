@@ -1,0 +1,26 @@
+{
+  "name": "Capitol Majestic Casino",
+  "short_name": "Capitol",
+  "description": "Capitol Majestic Casino: Every detail considered, none of them shouted",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f2ea",
+  "theme_color": "#c25e3a",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
